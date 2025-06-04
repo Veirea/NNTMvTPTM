@@ -1,6 +1,3 @@
-# codethi
-
-
 # 💧 HỆ THỐNG TƯỚI CÂY TỰ ĐỘNG SỬ DỤNG ESP32 VÀ ỨNG DỤNG BLYNK
 
 ## 📌 1. Giới thiệu chung
